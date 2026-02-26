@@ -47,7 +47,8 @@ main {
     font-size: 30px;
 }
 
-.Noticias-Deadpool {
+
+#Noticias-Deadpool {
     margin-top: 20px;
     background-color: #5f1b1b;
     padding: 15px;
@@ -56,7 +57,12 @@ main {
     text-align: center;
 }
 
-.Noticias-Deadpool .Noticias {
+#Noticias-Deadpool .Noticias a {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fd0000;
+}
+
+#Noticias-Deadpool .Noticias-Titulo {
     text-shadow: #9c9c9c 2px 2px 4px;
     font-size: 30px;
 }
